@@ -11,13 +11,25 @@ public class FlowersGrow : MonoBehaviour
     private Vector3[] occupiedPositions;
     public bool CanPlant = false;
     bool couroutineStarted= false;
+    SpriteRenderer m_SpriteRenderer;
+    public UnlockZone UnlockObject;
 
     void Start()
     {
+        m_SpriteRenderer = GetComponent<SpriteRenderer>();
         occupiedPositions = new Vector3[MaxFlowers];
     }
 
     private void Update() {
+
+        if(Input.GetMouseButtonDown(1)){
+
+            if(UnlockObject.UnlocksAvailable >=1 && flowerCount == 0){
+                CanPlant = true;
+                UnlockObject.UnlocksAvailable-= 1;
+                m_SpriteRenderer.color = Color.blue;
+            }
+        }
         
         if(CanPlant && !couroutineStarted){
             StartCoroutine(PlantFlowers());
@@ -51,6 +63,7 @@ public class FlowersGrow : MonoBehaviour
         if (flowerCount >= MaxFlowers)
         {
             CanPlant = false;
+            UnlockObject.UnlocksAvailable +=1;
         }
     }
 
