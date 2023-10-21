@@ -187,7 +187,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -196,6 +204,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 627017400}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 627017401}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &20116030 stripped
 Transform:
@@ -261,7 +272,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -270,6 +289,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1679135501}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1679135502}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &72188347 stripped
 Transform:
@@ -330,7 +352,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -339,6 +369,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 751615367}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 751615368}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &93804957 stripped
 Transform:
@@ -417,6 +450,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1126353957}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1126353958}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &137831709 stripped
 Transform:
@@ -477,7 +513,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -486,6 +530,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 960903118}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 960903119}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &176777161 stripped
 Transform:
@@ -546,7 +593,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -555,6 +610,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 189707209}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 189707210}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &189707207 stripped
 Transform:
@@ -574,10 +632,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 189707207}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &189707210
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 99241411}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &190524059
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -632,7 +735,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -641,6 +752,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1322062346}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1322062347}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &190524060 stripped
 Transform:
@@ -701,7 +815,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -710,6 +832,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 584168539}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 584168540}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &193986914 stripped
 Transform:
@@ -775,7 +900,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -784,6 +917,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2043043970}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2043043971}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &274792592 stripped
 Transform:
@@ -844,7 +980,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -853,6 +997,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 857228929}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 857228930}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &284522737 stripped
 Transform:
@@ -913,7 +1060,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -922,6 +1077,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1618930310}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1618930311}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &349292262 stripped
 Transform:
@@ -982,7 +1140,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -991,6 +1157,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 371030720}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 371030721}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &371030718 stripped
 Transform:
@@ -1010,59 +1179,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 371030718}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
---- !u!1 &372679957
-GameObject:
+--- !u!61 &371030721
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 372679959}
-  - component: {fileID: 372679960}
-  m_Layer: 0
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &372679959
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 372679957}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &372679960
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 372679957}
+  m_GameObject: {fileID: 5295017}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 284605052a591234a83e4c853941fd06, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 1043582635}
-  MaxFlowers: 10
-  CanPlant: 1
-  UnlockObject: {fileID: 761845257}
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &419402476
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1117,7 +1282,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1126,6 +1299,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1982733354}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1982733355}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &419402477 stripped
 Transform:
@@ -1191,7 +1367,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1200,6 +1384,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1444569247}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1444569248}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &460427500 stripped
 Transform:
@@ -1267,7 +1454,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 9.56
+  orthographic size: 9.75
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1352,7 +1539,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1361,6 +1556,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 666955681}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 666955682}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &544754062 stripped
 Transform:
@@ -1421,7 +1619,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1430,6 +1636,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1136462851}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1136462852}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &573615037 stripped
 Transform:
@@ -1454,10 +1663,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 193986914}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &584168540
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584168537}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &594242497
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1512,7 +1766,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1521,6 +1783,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 744630661}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 744630662}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &594242498 stripped
 Transform:
@@ -1581,7 +1846,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1590,6 +1863,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1871010859}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1871010860}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &594984979 stripped
 Transform:
@@ -1614,10 +1890,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 20116030}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &627017401
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 627017398}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &634284440 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -1682,7 +2003,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1691,6 +2020,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1328021043}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1328021044}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &661308976 stripped
 Transform:
@@ -1715,10 +2047,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 544754062}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &666955682
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 666955679}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &674808393
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1773,7 +2150,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1782,6 +2167,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1011049926}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1011049927}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &674808394 stripped
 Transform:
@@ -1875,7 +2263,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1700383518}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!1 &744630659 stripped
 GameObject:
@@ -1895,10 +2286,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 594242498}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &744630662
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744630659}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &747806311
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1953,7 +2389,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1962,6 +2406,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1079030288}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1079030289}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &747806312 stripped
 Transform:
@@ -1986,10 +2433,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 93804957}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &751615368
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 751615365}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &761845256
 GameObject:
   m_ObjectHideFlags: 0
@@ -2094,7 +2586,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2103,6 +2603,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1310263613}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1310263614}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &767023751 stripped
 Transform:
@@ -2163,7 +2666,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2172,6 +2683,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1771280581}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1771280582}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &779554444 stripped
 Transform:
@@ -2237,7 +2751,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2246,6 +2768,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1154874679}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1154874680}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &794491509 stripped
 Transform:
@@ -2319,6 +2844,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1758730303}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1758730304}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &796722693 stripped
 Transform:
@@ -2379,7 +2907,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2388,6 +2924,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1866794179}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1866794180}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &807134383 stripped
 Transform:
@@ -2448,7 +2987,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2457,6 +3004,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 818243115}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 818243116}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &818243113 stripped
 Transform:
@@ -2476,10 +3026,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 818243113}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &818243116
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 794016199}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &831159584 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -2503,10 +3098,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 284522737}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &857228930
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 857228927}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &960903116 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -2525,10 +3165,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 176777161}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &960903119
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 960903116}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1011049924 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -2547,10 +3232,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 674808394}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1011049927
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1011049924}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1027855377 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -2625,7 +3355,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2634,6 +3372,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1078223607}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1078223608}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1078223605 stripped
 Transform:
@@ -2653,10 +3394,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1078223605}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1078223608
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 766459270}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1079030286 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -2675,10 +3461,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 747806312}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1079030289
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1079030286}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1092672922
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2733,7 +3564,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2742,6 +3581,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1327103556}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1327103557}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1092672923 stripped
 Transform:
@@ -2767,9 +3609,54 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
   flowerZonePrefab: {fileID: 137831709}
-  MaxFlowers: 10
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1126353958
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126353954}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1136462849 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -2788,10 +3675,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 573615037}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1136462852
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1136462849}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1140137264
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2846,7 +3778,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2855,6 +3795,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1651283884}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1651283885}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1140137265 stripped
 Transform:
@@ -2884,10 +3827,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 794491509}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1154874680
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1154874677}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1160732766
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2942,7 +3930,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2951,6 +3947,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1160732769}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1160732770}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1160732767 stripped
 Transform:
@@ -2970,10 +3969,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1160732767}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1160732770
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1070055104}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1177036126
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3028,7 +4072,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3037,6 +4089,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2029347462}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2029347463}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1177036127 stripped
 Transform:
@@ -3102,7 +4157,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3111,6 +4174,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1207107191}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1207107192}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1207107189 stripped
 Transform:
@@ -3130,10 +4196,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1207107189}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1207107192
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 210809711}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1209929082
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3188,7 +4299,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3197,6 +4316,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1209929085}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1209929086}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1209929083 stripped
 Transform:
@@ -3216,10 +4338,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1209929083}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1209929086
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1184446889}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1241669911 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -3323,10 +4490,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 767023751}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1310263614
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1310263611}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1321008449
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3381,7 +4593,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3390,6 +4610,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1321008452}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1321008453}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1321008450 stripped
 Transform:
@@ -3409,10 +4632,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1321008450}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1321008453
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9094118}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1322062344 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -3431,10 +4699,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 190524060}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1322062347
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322062344}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1327103554 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -3453,10 +4766,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1092672923}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1327103557
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327103554}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1328021041 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -3475,10 +4833,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 661308976}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1328021044
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1328021041}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1398414617
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3533,7 +4936,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3542,6 +4953,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1612047148}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1612047149}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1398414618 stripped
 Transform:
@@ -3602,7 +5016,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3611,6 +5033,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1430658081}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1430658082}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1430658079 stripped
 Transform:
@@ -3630,10 +5055,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1430658079}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1430658082
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 634284440}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1444569245 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -3652,10 +5122,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 460427500}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1444569248
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1444569245}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1455548769
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3710,7 +5225,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3719,6 +5242,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1455548772}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1455548773}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1455548770 stripped
 Transform:
@@ -3738,10 +5264,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1455548770}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1455548773
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241669911}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1493765445
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3796,7 +5367,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3805,6 +5384,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1968274347}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1968274348}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1493765446 stripped
 Transform:
@@ -3865,7 +5447,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3874,6 +5464,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1553802375}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1553802376}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1553802373 stripped
 Transform:
@@ -3893,10 +5486,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1553802373}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1553802376
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1044364987}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1612047146 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -3915,10 +5553,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1398414618}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1612047149
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1612047146}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1612249019
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3973,7 +5656,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3982,6 +5673,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1612249022}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1612249023}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1612249020 stripped
 Transform:
@@ -4001,10 +5695,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1612249020}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1612249023
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831159584}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1618930308 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4023,10 +5762,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 349292262}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1618930311
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1618930308}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1651283882 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4045,10 +5829,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1140137265}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1651283885
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1651283882}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1679135499 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4067,10 +5896,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 72188347}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1679135502
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1679135499}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1686620845
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4125,7 +5999,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4134,6 +6016,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1686620848}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1686620849}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1686620846 stripped
 Transform:
@@ -4153,9 +6038,76 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1686620846}
+  MaxFlowers: 5
   CanPlant: 0
+  UnlockObject: {fileID: 761845257}
+--- !u!61 &1686620849
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 640348723}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!1 &1700383516 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+  m_PrefabInstance: {fileID: 712916774}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1700383518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1700383516}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 284605052a591234a83e4c853941fd06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  flowerZonePrefab: {fileID: 1043582635}
+  MaxFlowers: 5
+  CanPlant: 1
   UnlockObject: {fileID: 761845257}
 --- !u!1 &1758730301 stripped
 GameObject:
@@ -4176,9 +6128,54 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
   flowerZonePrefab: {fileID: 796722693}
-  MaxFlowers: 10
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1758730304
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1758730301}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1771280579 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4197,10 +6194,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 779554444}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1771280582
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1771280579}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1775629469
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4255,7 +6297,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4264,6 +6314,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1861316737}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1861316738}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1775629470 stripped
 Transform:
@@ -4324,7 +6377,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4333,6 +6394,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1850752735}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1850752736}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1850752733 stripped
 Transform:
@@ -4352,10 +6416,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1850752733}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1850752736
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1027855377}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1861316735 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4374,10 +6483,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1775629470}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1861316738
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1861316735}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1866794177 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4396,10 +6550,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 807134383}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1866794180
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1866794177}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1871010857 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4418,10 +6617,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 594984979}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1871010860
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1871010857}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1968274345 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4440,10 +6684,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1493765446}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1968274348
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1968274345}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1979021493
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4498,7 +6787,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4507,6 +6804,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1979021496}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1979021497}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1979021494 stripped
 Transform:
@@ -4527,9 +6827,54 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
   flowerZonePrefab: {fileID: 1979021494}
-  MaxFlowers: 10
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1979021497
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 421448263}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1982733352 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4548,10 +6893,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 419402477}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1982733355
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1982733352}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1988996709
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4606,7 +6996,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4615,6 +7013,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1988996712}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1988996713}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1988996710 stripped
 Transform:
@@ -4634,10 +7035,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1988996710}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1988996713
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1143651922}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1996220214
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4692,7 +7138,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4701,6 +7155,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1996220217}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1996220218}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &1996220215 stripped
 Transform:
@@ -4720,10 +7177,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1996220215}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &1996220218
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 56742789}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &2029347460 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4742,10 +7244,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 1177036127}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &2029347463
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2029347460}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &2043043968 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -4764,10 +7311,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 274792592}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &2043043971
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2043043968}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &2043469758
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4822,7 +7414,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883875106799102193, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 870156755
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4831,6 +7431,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2116185081}
+    - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2116185082}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
 --- !u!4 &2043469759 stripped
 Transform:
@@ -4855,15 +7458,59 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
-  flowerZonePrefab: {fileID: 0}
-  MaxFlowers: 10
+  flowerZonePrefab: {fileID: 2043469759}
+  MaxFlowers: 5
   CanPlant: 0
   UnlockObject: {fileID: 761845257}
+--- !u!61 &2116185082
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2116185079}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
-  - {fileID: 372679959}
   - {fileID: 761845258}
   - {fileID: 1242116497}

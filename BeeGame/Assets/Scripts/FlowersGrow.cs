@@ -11,7 +11,7 @@ public class FlowersGrow : MonoBehaviour
     private Vector3[] occupiedPositions;
     public bool CanPlant = false;
     bool couroutineStarted= false;
-    SpriteRenderer m_SpriteRenderer;
+    private SpriteRenderer m_SpriteRenderer;
     public UnlockZone UnlockObject;
 
     void Start()
@@ -21,20 +21,20 @@ public class FlowersGrow : MonoBehaviour
     }
 
     private void Update() {
-
-        if(Input.GetMouseButtonDown(1)){
-
-            if(UnlockObject.UnlocksAvailable >=1 && flowerCount == 0){
-                CanPlant = true;
-                UnlockObject.UnlocksAvailable-= 1;
-                m_SpriteRenderer.color = Color.blue;
-            }
-        }
         
         if(CanPlant && !couroutineStarted){
             StartCoroutine(PlantFlowers());
         }
 
+    }
+
+    void OnMouseDown()
+    {
+        if(UnlockObject.UnlocksAvailable >=1 && flowerCount == 0){
+                CanPlant = true;
+                UnlockObject.UnlocksAvailable-= 1;
+                m_SpriteRenderer.color = Color.blue;
+            }
     }
 
     IEnumerator PlantFlowers()
