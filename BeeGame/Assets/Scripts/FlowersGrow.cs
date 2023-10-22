@@ -33,7 +33,7 @@ public class FlowersGrow : MonoBehaviour
         if(UnlockObject.UnlocksAvailable >=1 && flowerCount == 0){
                 CanPlant = true;
                 UnlockObject.UnlocksAvailable-= 1;
-                m_SpriteRenderer.color = Color.blue;
+                m_SpriteRenderer.color = Color.green;
             }
     }
 
