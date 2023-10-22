@@ -28,7 +28,7 @@ public class BeeScript : MonoBehaviour
 
         foreach (GameObject enemy in Enemies)
         {
-            float distance = Vector3.Distance(transform.position, enemy.transform.position);
+            float distance = Vector2.Distance(transform.position, enemy.transform.position);
 
             if (distance < nearestDistance)
             {
@@ -43,8 +43,18 @@ public class BeeScript : MonoBehaviour
     {
         if (targetObject != null)
         {
-            transform.LookAt(targetObject);
-            transform.position = Vector3.MoveTowards(transform.position, targetObject.position + new Vector3(0,0,3), moveSpeed * Time.deltaTime);
+            Vector2 targetposition = targetObject.position;
+
+            // Obtiene la dirección hacia el objetivo
+            Vector3 direction = targetObject.position - transform.position;
+
+            // Calcula el ángulo en radianes
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+
+            // Rota el objeto hacia el ángulo calculado
+            transform.rotation = Quaternion.AngleAxis(angle-80, Vector3.forward);
+
+            transform.position = Vector2.MoveTowards(transform.position, targetposition, moveSpeed * Time.deltaTime);
         }
     }
 

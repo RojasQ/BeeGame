@@ -35,10 +35,9 @@ public class FlowersGrow : MonoBehaviour
     {
         Vector3 centerOfZone = GetCenterZone();
 
-        if(UnlockObject.UnlocksAvailable >=1 && flowerCount == 0){
+        if(UnlockObject.UnlocksAvailable >=1 && flowerCount == 0 && Time.timeScale >= 1f){
                 CanPlant = true;
                 UnlockObject.UnlocksAvailable-= 1;
-                m_SpriteRenderer.color = Color.green;
                 Instantiate(ColmenaPrefab, centerOfZone, Quaternion.identity);
                 ExpandAlert.SetActive(false);
                 HoneyCounter.pointsPerSecond += 1f;
@@ -88,7 +87,7 @@ public class FlowersGrow : MonoBehaviour
 
     Vector3 GetCenterZone()
     {
-        return flowerZonePrefab.position + new Vector3(0, 2f, 0f);
+        return flowerZonePrefab.position + new Vector3(0, 0.5f, 0f);
     }
 
     bool IsPositionOccupied(Vector3 position)
