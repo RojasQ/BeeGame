@@ -14,6 +14,8 @@ public class FlowersGrow : MonoBehaviour
     bool couroutineStarted= false;
     private SpriteRenderer m_SpriteRenderer;
     public UnlockZone UnlockObject;
+    public HoneyCount HoneyCounter;
+    public GameObject ExpandAlert;
 
     void Start()
     {
@@ -38,6 +40,8 @@ public class FlowersGrow : MonoBehaviour
                 UnlockObject.UnlocksAvailable-= 1;
                 m_SpriteRenderer.color = Color.green;
                 Instantiate(ColmenaPrefab, centerOfZone, Quaternion.identity);
+                ExpandAlert.SetActive(false);
+                HoneyCounter.pointsPerSecond += 1f;
             }
     }
 
@@ -68,6 +72,7 @@ public class FlowersGrow : MonoBehaviour
         {
             CanPlant = false;
             UnlockObject.UnlocksAvailable +=1;
+            ExpandAlert.SetActive(true);
         }
     }
 
