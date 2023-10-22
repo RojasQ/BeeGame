@@ -632,6 +632,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 189707207}
   MaxFlowers: 5
   CanPlant: 0
@@ -1179,6 +1180,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 371030718}
   MaxFlowers: 5
   CanPlant: 0
@@ -1663,6 +1665,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 193986914}
   MaxFlowers: 5
   CanPlant: 0
@@ -1890,6 +1893,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 20116030}
   MaxFlowers: 5
   CanPlant: 0
@@ -2047,6 +2051,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 544754062}
   MaxFlowers: 5
   CanPlant: 0
@@ -2262,7 +2267,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 3481491853406126043, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1739289618}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
       insertIndex: -1
@@ -2286,6 +2294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 594242498}
   MaxFlowers: 5
   CanPlant: 0
@@ -2433,6 +2442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 93804957}
   MaxFlowers: 5
   CanPlant: 0
@@ -3026,6 +3036,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 818243113}
   MaxFlowers: 5
   CanPlant: 0
@@ -3080,6 +3091,79 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
   m_PrefabInstance: {fileID: 1612249019}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &841854710
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1043582635}
+    m_Modifications:
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2974667
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5949334
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0033333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.63666666
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1852578026695156577, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1852578026695156577, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -446205077
+      objectReference: {fileID: 0}
+    - target: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+      propertyPath: m_Name
+      value: Colmena
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
 --- !u!1 &857228927 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -3098,6 +3182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 284522737}
   MaxFlowers: 5
   CanPlant: 0
@@ -3165,6 +3250,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 176777161}
   MaxFlowers: 5
   CanPlant: 0
@@ -3232,6 +3318,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 674808394}
   MaxFlowers: 5
   CanPlant: 0
@@ -3394,6 +3481,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1078223605}
   MaxFlowers: 5
   CanPlant: 0
@@ -3461,6 +3549,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 747806312}
   MaxFlowers: 5
   CanPlant: 0
@@ -3608,6 +3697,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 137831709}
   MaxFlowers: 5
   CanPlant: 0
@@ -3675,6 +3765,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 573615037}
   MaxFlowers: 5
   CanPlant: 0
@@ -3827,6 +3918,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 794491509}
   MaxFlowers: 5
   CanPlant: 0
@@ -3969,6 +4061,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1160732767}
   MaxFlowers: 5
   CanPlant: 0
@@ -4196,6 +4289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1207107189}
   MaxFlowers: 5
   CanPlant: 0
@@ -4338,6 +4432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1209929083}
   MaxFlowers: 5
   CanPlant: 0
@@ -4490,6 +4585,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 767023751}
   MaxFlowers: 5
   CanPlant: 0
@@ -4632,6 +4728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1321008450}
   MaxFlowers: 5
   CanPlant: 0
@@ -4699,6 +4796,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 190524060}
   MaxFlowers: 5
   CanPlant: 0
@@ -4766,6 +4864,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1092672923}
   MaxFlowers: 5
   CanPlant: 0
@@ -4833,6 +4932,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 661308976}
   MaxFlowers: 5
   CanPlant: 0
@@ -5055,6 +5155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1430658079}
   MaxFlowers: 5
   CanPlant: 0
@@ -5122,6 +5223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 460427500}
   MaxFlowers: 5
   CanPlant: 0
@@ -5264,6 +5366,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1455548770}
   MaxFlowers: 5
   CanPlant: 0
@@ -5486,6 +5589,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1553802373}
   MaxFlowers: 5
   CanPlant: 0
@@ -5553,6 +5657,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1398414618}
   MaxFlowers: 5
   CanPlant: 0
@@ -5695,6 +5800,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1612249020}
   MaxFlowers: 5
   CanPlant: 0
@@ -5762,6 +5868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 349292262}
   MaxFlowers: 5
   CanPlant: 0
@@ -5829,6 +5936,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1140137265}
   MaxFlowers: 5
   CanPlant: 0
@@ -5896,6 +6004,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 72188347}
   MaxFlowers: 5
   CanPlant: 0
@@ -6038,6 +6147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1686620846}
   MaxFlowers: 5
   CanPlant: 0
@@ -6105,10 +6215,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1043582635}
   MaxFlowers: 5
   CanPlant: 1
   UnlockObject: {fileID: 761845257}
+--- !u!4 &1739289618 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1358089536261182648, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
+  m_PrefabInstance: {fileID: 841854710}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1758730301 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7931367961063492452, guid: 0bd88f4cfbd071c4780478244262db76, type: 3}
@@ -6127,6 +6243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 796722693}
   MaxFlowers: 5
   CanPlant: 0
@@ -6194,6 +6311,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 779554444}
   MaxFlowers: 5
   CanPlant: 0
@@ -6416,6 +6534,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1850752733}
   MaxFlowers: 5
   CanPlant: 0
@@ -6483,6 +6602,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1775629470}
   MaxFlowers: 5
   CanPlant: 0
@@ -6550,6 +6670,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 807134383}
   MaxFlowers: 5
   CanPlant: 0
@@ -6617,6 +6738,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 594984979}
   MaxFlowers: 5
   CanPlant: 0
@@ -6684,6 +6806,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1493765446}
   MaxFlowers: 5
   CanPlant: 0
@@ -6826,6 +6949,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1979021494}
   MaxFlowers: 5
   CanPlant: 0
@@ -6893,6 +7017,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 419402477}
   MaxFlowers: 5
   CanPlant: 0
@@ -7035,6 +7160,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1988996710}
   MaxFlowers: 5
   CanPlant: 0
@@ -7177,6 +7303,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1996220215}
   MaxFlowers: 5
   CanPlant: 0
@@ -7244,6 +7371,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 1177036127}
   MaxFlowers: 5
   CanPlant: 0
@@ -7311,6 +7439,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 274792592}
   MaxFlowers: 5
   CanPlant: 0
@@ -7458,6 +7587,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowerPrefab: {fileID: 2891895412577421577, guid: 91914e82cc3b22d45ba0552488c7f38d, type: 3}
+  ColmenaPrefab: {fileID: 4152262832077067588, guid: 0ce23dbf9b2698c41a8b66fdc5d34180, type: 3}
   flowerZonePrefab: {fileID: 2043469759}
   MaxFlowers: 5
   CanPlant: 0
