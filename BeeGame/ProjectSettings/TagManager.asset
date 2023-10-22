@@ -7,6 +7,7 @@ TagManager:
   - Flower
   - Hive
   - HoneyCounter
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -49,4 +50,7 @@ TagManager:
     locked: 0
   - name: Panales
     uniqueID: 3848762219
+    locked: 0
+  - name: Defensores
+    uniqueID: 645584291
     locked: 0
