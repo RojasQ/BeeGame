@@ -5,6 +5,7 @@ using UnityEngine;
 public class FlowersGrow : MonoBehaviour
 {
     public GameObject flowerPrefab;
+    public GameObject ColmenaPrefab;
     public Transform flowerZonePrefab;
     public int MaxFlowers = 10;
     private int flowerCount = 0;
@@ -30,17 +31,20 @@ public class FlowersGrow : MonoBehaviour
 
     void OnMouseDown()
     {
+        Vector3 centerOfZone = GetCenterZone();
+
         if(UnlockObject.UnlocksAvailable >=1 && flowerCount == 0){
                 CanPlant = true;
                 UnlockObject.UnlocksAvailable-= 1;
                 m_SpriteRenderer.color = Color.green;
+                Instantiate(ColmenaPrefab, centerOfZone, Quaternion.identity);
             }
     }
 
     IEnumerator PlantFlowers()
     {
         couroutineStarted = true;
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.3f);
         PlantFlower();
         couroutineStarted = false;
         
@@ -67,12 +71,19 @@ public class FlowersGrow : MonoBehaviour
         }
     }
 
+
+
     Vector3 GetRandomPositionInZone()
     {
         float x = Random.Range(-flowerZonePrefab.localScale.x / 2f, flowerZonePrefab.localScale.x / 2f);
         float y = Random.Range(-flowerZonePrefab.localScale.y / 2f, flowerZonePrefab.localScale.y / 2f);
 
         return flowerZonePrefab.position + new Vector3(x, y, 0f);
+    }
+
+    Vector3 GetCenterZone()
+    {
+        return flowerZonePrefab.position + new Vector3(0, 2f, 0f);
     }
 
     bool IsPositionOccupied(Vector3 position)
