@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4142793574086092009}
   - component: {fileID: -6402815182114513954}
   - component: {fileID: -5085723888089778630}
+  - component: {fileID: -8503878516501507448}
   m_Layer: 0
   m_Name: Triangle
   m_TagString: Flower
@@ -158,3 +159,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-8503878516501507448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2891895412577421577}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07cb1e9b41618664ca66f121fde498d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+  maxHealth: 100

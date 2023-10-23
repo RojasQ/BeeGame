@@ -34,7 +34,7 @@ public class BeehiveScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other) {
         if(other.CompareTag("Enemy")){
-            Debug.Log(gameObject);
+            Debug.Log("colmena collider");
             hitList.Add(gameObject);
             FixedUpdate();
         }
@@ -47,8 +47,4 @@ public class BeehiveScript : MonoBehaviour
         }
     }
 
-    void Update()
-    {
-        
-    }
 }

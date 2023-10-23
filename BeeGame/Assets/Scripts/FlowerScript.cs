@@ -32,7 +32,6 @@ public class FlowerScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other) {
         if(other.CompareTag("Enemy")){
-            Debug.Log(gameObject);
             hitList.Add(gameObject);
             FixedUpdate();
         }
@@ -40,13 +39,8 @@ public class FlowerScript : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other) {
         if(other.CompareTag("Enemy")){
-            Debug.Log(gameObject);
             hitList.Remove(gameObject);
         }
     }
-
-    void Update()
-    {
-        
-    }
+    
 }

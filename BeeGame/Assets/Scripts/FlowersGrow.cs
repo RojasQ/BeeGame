@@ -7,7 +7,7 @@ public class FlowersGrow : MonoBehaviour
     public GameObject flowerPrefab;
     public GameObject ColmenaPrefab;
     public Transform flowerZonePrefab;
-    public int MaxFlowers = 10;
+    private int MaxFlowers = 10;
     private int flowerCount = 0;
     private Vector3[] occupiedPositions;
     public bool CanPlant = false;
@@ -40,6 +40,7 @@ public class FlowersGrow : MonoBehaviour
                 UnlockObject.UnlocksAvailable-= 1;
                 Instantiate(ColmenaPrefab, centerOfZone, Quaternion.identity);
                 ExpandAlert.SetActive(false);
+                m_SpriteRenderer.color=Color.white;
                 HoneyCounter.pointsPerSecond += 1f;
             }
     }
@@ -47,7 +48,7 @@ public class FlowersGrow : MonoBehaviour
     IEnumerator PlantFlowers()
     {
         couroutineStarted = true;
-        yield return new WaitForSeconds(0.3f);
+        yield return new WaitForSeconds(0.7f);
         PlantFlower();
         couroutineStarted = false;
         

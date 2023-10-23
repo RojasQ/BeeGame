@@ -87,12 +87,12 @@ public class EnemyScript : MonoBehaviour
             if (target.CompareTag("Flower"))
             {
                 // Inflicte daño a la flor
-                target.GetComponent<FloatingHp>().changeHp(attackDamage);
+                // target.GetComponent<FloatingHp>().changeHp(attackDamage);
             }
             else if (target.CompareTag("Hive"))
             {
                 // Inflicte daño a la colmena
-                target.GetComponent<FloatingHp>().changeHp(attackDamage);
+                // target.GetComponent<FloatingHp>().changeHp(attackDamage);
             }
 
             // Espera un tiempo antes de realizar otro ataque
