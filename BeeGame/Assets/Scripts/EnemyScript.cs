@@ -5,11 +5,13 @@ using UnityEngine;
 public class EnemyScript : MonoBehaviour
 {
     public float health = 100f;
+    public float maxHealth = 100f;
     public float moveSpeed = 1f;
     public float attackDamage = 10f;
 
     private Transform targetObject;
     private bool isAttacking = false;
+
 
     void Update()
     {
@@ -19,6 +21,13 @@ public class EnemyScript : MonoBehaviour
         {
             MoveTowardsTarget();
         }
+    }
+
+    private void Awake() {
+
+    }
+
+    private void Start() {
     }
 
     void FindNearestTarget()
@@ -60,43 +69,9 @@ public class EnemyScript : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter(Collider other)
-    {
-        if ((other.CompareTag("Flower") || other.CompareTag("Hive")) && !isAttacking)
-        {
-            StartCoroutine(AttackTarget(other.gameObject));
-        }
-    }
-
-    IEnumerator AttackTarget(GameObject target)
-    {
-        isAttacking = true;
-
-        while (target != null && health > 0)
-        {
-            if (target.CompareTag("Flower"))
-            {
-                // Inflicte daño a la flor
-                target.GetComponent<FloatingHp>().changeHp(attackDamage);
-            }
-            else if (target.CompareTag("Hive"))
-            {
-                // Inflicte daño a la colmena
-                target.GetComponent<FloatingHp>().changeHp(attackDamage);
-            }
-
-            // Espera un tiempo antes de realizar otro ataque
-            yield return new WaitForSeconds(1f);
-        }
-
-        isAttacking = false;
-        FindNearestTarget(); // Busca un nuevo objetivo después de destruir el anterior
-    }
 
     public void TakeDamage(float damage)
     {
-        health -= damage;
-
         if (health <= 0)
         {
             Destroy(gameObject);

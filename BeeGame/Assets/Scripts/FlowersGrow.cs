@@ -58,7 +58,6 @@ public class FlowersGrow : MonoBehaviour
     {
         Vector3 randomPosition = GetRandomPositionInZone();
 
-        // Verificar si la posición está ocupada
         while (IsPositionOccupied(randomPosition))
         {
             randomPosition = GetRandomPositionInZone();
