@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
+using UnityEngine.UI;
 
 public class BeeScript : MonoBehaviour
 {
@@ -9,7 +11,11 @@ public class BeeScript : MonoBehaviour
 
     private Transform targetObject;
     private bool isAttacking = false;
+    private HoneyCount HoneyPoints;
 
+    private void Start() {
+        HoneyPoints = FindObjectOfType<HoneyCount>();
+    }
     void Update()
     {
         FindNearestTarget();
@@ -63,8 +69,13 @@ public class BeeScript : MonoBehaviour
         if (other.CompareTag("Enemy"))
         {
             other.GetComponent<EnemyScript>().TakeDamage(attackDamage);
-            
             Destroy(this.gameObject);
         }
+    }
+
+    private void OnDestroy() {
+
+        HoneyPoints.LessBees();
+        
     }
 }

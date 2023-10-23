@@ -70,11 +70,11 @@ public class EnemyScript : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         if ((other.CompareTag("Flower") || other.CompareTag("Hive")) && !isAttacking)
         {
-            StartCoroutine(AttackTarget(other.gameObject));
+            // StartCoroutine(AttackTarget(other.gameObject));
         }
     }
 

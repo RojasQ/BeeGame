@@ -8,6 +8,7 @@ TagManager:
   - Hive
   - HoneyCounter
   - Enemy
+  - CombatBee
   layers:
   - Default
   - TransparentFX
